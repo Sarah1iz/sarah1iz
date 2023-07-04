@@ -7,7 +7,7 @@ I'm Fullstack Developer
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [sarah.rendeiro@outlook.com](mailto:sarah.rendeiro@outlook.com)
 * 🧠  I'm learning • Front-end: HTML, CSS, DOM, JavaScript, TypeScript, React • Back-end: Node.js, NPM, PostgreSQL, API's Rest • DevOps: Git, GitHub • Soft-Skills: Metodologias Ágeis (Scrum), Comunicação, Resolução de Problemas, Inteligência Emocional, Gestão do Tempo
-* ⚡  Fun facts • Formada na área de saúde, em Odontologia, com pós em Perícias Forenses e entusiasta da tecnologia, gosta de fazer atividades que envolvam raciocínio lógico, resolver problemas e criar soluções, instinto curioso e investigativo, adora aprender coisas novas, autodidata nata e sempre a disposição em ajudar. Nas horas vagas é jogadora amadora de vôlei, e gosta de ir a praia ou no cinema com os amigos.
+* ⚡  Fun facts • Formada na área de saúde, em Odontologia, com pós em Perícias Forenses e entusiasta da tecnologia, gosta de fazer atividades que envolvam raciocínio lógico, resolver problemas e criar soluções, instinto curioso e investigativo, adora aprender coisas novas, autodidata nata e sempre a disposição em ajudar. Nas horas vagas é jogadora amadora de vôlei.
 
 ### Skills
 
