@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌍  Eu moro no brasil;<br>✉️  Você pode entrar em contato comigo em sarah.rendeiro@outlook.com ;<br>🧠  Estou aprendendo • Front-end: HTML, CSS, DOM, JavaScript, TypeScript, React • Back-end: Node.js, NPM, PostgreSQL, API's Rest • DevOps: Git, GitHub • Soft-Skills: Metodologias Ágeis (Scrum ), Comunicação, Resolução de Problemas, Inteligência Emocional, Gestão do Tempo<br>⚡  Curiosidades • Formada na área de saúde, em Odontologia, com pós em Perícias Forenses e entusiasta da tecnologia, gosta de fazer atividades que envolvem raciocínio lógico, resolver problemas e criar soluções, instinto curioso e investigativo, adora aprender coisas novas, autodidata nata e sempre a disposição em ajudar. Nas horas vagas é jogadora amadora de vôlei.</p>
+<p align="left">🌍  Eu moro no brasil;<br>✉️  Você pode entrar em contato comigo em sarah.rendeiro@outlook.com ;<br>🧠  Estou aprendendo •  HTML, CSS, DOM, JavaScript, PHP, C++ TypeScript, React, Node.js, NPM, PostgreSQL, API's Rest, Git, GitHub • Soft-Skills: Metodologias Ágeis (Scrum ), Comunicação, Resolução de Problemas, Inteligência Emocional, Gestão do Tempo<br>⚡  Curiosidades • Formada na área de saúde, em Odontologia, com pós em Perícias Forenses e entusiasta da tecnologia, gosta de fazer atividades que envolvem raciocínio lógico, resolver problemas e criar soluções, instinto curioso e investigativo, adora aprender coisas novas, autodidata nata e sempre a disposição em ajudar. Nas horas vagas é jogadora amadora de vôlei.</p>
 
 ###
 
